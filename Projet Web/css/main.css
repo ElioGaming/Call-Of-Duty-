@@ -1,0 +1,22 @@
+.titre_main {
+    color: white;
+    text-align: right;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 220px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: 'Roboto', sans-serif;
+    color: #e8e102;
+    font-weight: 900;
+}
+
+.logo_main {
+    width: 500px;
+    height: 170px;
+}
+
+.auto_play {
+    width: 240px;
+    height: 100px;
+}
